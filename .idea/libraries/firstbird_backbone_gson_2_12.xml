@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="firstbird.backbone.gson_2.12" type="repository">
+    <properties maven-id="com.firstbird:backbone-gson_2.12:3.0.0-RC7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/backbone-gson_2.12-3.0.0-RC7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/backbone-core_2.12-3.0.0-RC7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-actor_2.12-2.6.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/config-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-stream_2.12-2.6.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-protobuf-v3_2.12-2.6.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ssl-config-core_2.12-0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-parser-combinators_2.12-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-stream-alpakka-sqs_2.12-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-spi-akka-http_2.12-0.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/http-client-spi-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqs-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-query-protocol-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protocol-core-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sdk-core-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/profiles-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/auth-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/eventstream-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/regions-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/utils-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-core-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-http_2.12-10.1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-http-core_2.12-10.1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-parsing_2.12-10.1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/akka-stream-alpakka-sns_2.12-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sns-2.11.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-core_2.12-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-kernel_2.12-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/simulacrum-scalafix-annotations_2.12-0.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-collection-compat_2.12-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-java8-compat_2.12-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/http-client-spi-2.11.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-collection-compat_2.12-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

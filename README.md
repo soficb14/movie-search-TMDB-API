@@ -93,9 +93,7 @@ Saída esperada:
 Título: Interestelar
 Avaliação: 8.4
 Sinopse: Um grupo de exploradores utiliza um buraco de minhoca...
-🎥 Demonstração
 
-(Adicione aqui um GIF ou vídeo curto mostrando a busca funcionando no terminal)
 
 📚 Aprendizados com o projeto
 
@@ -113,21 +111,6 @@ Organização de projetos
 
 Versionamento com Git
 
-🔮 Melhorias futuras
-
-Algumas funcionalidades que podem ser adicionadas futuramente:
-
-Busca por séries
-
-Busca por atores
-
-Menu interativo no terminal
-
-Histórico de buscas
-
-Limitação de resultados
-
-Interface gráfica
 
 👩‍💻 Autora
 
